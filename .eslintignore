@@ -1,0 +1,8 @@
+!app/
+node_modules
+coverage
+.next
+.open-next
+.sst
+
+pnpm-lock.yaml
