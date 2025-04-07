@@ -3,6 +3,8 @@
   "singleQuote": true,
   "useTabs": true,
   "trailingComma": "none",
-  "plugins": ["prettier-plugin-tailwindcss"],
-  "tailwindConfig": "./tailwind.config.ts"
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindConfig": "./services/frontend/tailwind.config.ts"
 }
